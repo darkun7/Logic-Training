@@ -23,4 +23,4 @@ function getKeyWord(sentence) {
     return combinations;
   }
   
-  console.log(getKeyWord("cat and dog"))
+//   console.log(getKeyWord("clean white paper"))
